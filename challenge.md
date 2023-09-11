@@ -14,7 +14,7 @@ well as the target sum.
 ​
 Sample output is shown below.
 ```
-> app 1,9,5,0,20,-4,12,16,7 12
+> app sum numbers
 ​
 + 12,0
 + 5,7

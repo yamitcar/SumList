@@ -17,13 +17,6 @@ Install the project dependencies:
 pip install -r requirements.txt
 ```
 
-## Utils
- create requirements file:
- 
-```bash
-pip freeze > requirements. txt
-```
-
 For run the app:
 
 ```bash
@@ -62,3 +55,11 @@ Some pending improvements, (because lack of time):
 
     - include tests for the adapter class
     - possible refactor, avoid delete elements from the array and move thougth it based on on the indexes, and move the index pointers instead. that could improve enven more the complexity metric
+
+
+## Utils
+ create requirements file:
+ 
+```bash
+pip freeze > requirements. txt
+```
